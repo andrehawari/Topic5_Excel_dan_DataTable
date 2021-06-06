@@ -1,0 +1,21 @@
+﻿Id,Internal Name,External Name,Website,Industry,Recurrent Supplier,Supplier Since,Number of Employees,City,Street,Zip,State
+1,VPN Services,Secure VPN Provider,www.vpn.com,Communication,TRUE,22/2/2000,2000,Paris,Olala,,France
+2,Energy Provider,ENEL,www.enel.com,Energy,TRUE,22/2/1990,100,Paris,Olala,,France
+3,HR Provider,HR Expert,www.hr.com,Human Resources,TRUE,10/2/2010,100,Paris,Olala,,France
+4,HR Provider,HR Top Recruitment,www.hr.com,Human Resources,TRUE,10/2/2017,100,Paris,Olala,,France
+5,Internet Provider,InterPower Group,www.interpower.com,Telecom,TRUE,10/2/2010,1000,Barcelona,Olala,,Spain
+6,Bank,Smart Bank,www.smartbank.com,Banking,TRUE,23/8/2010,100,New York,Times,,USA
+7,Wood Provider,Creative Wood,www.creativewood.com,Wood,TRUE,10/2/2019,100,Berlin,Hartmangrh,,Germany
+8,Metal Provider,Modern Metal,www.modernmetal.com,Metal,TRUE,10/2/2019,1090,Berlin,Hartmangrh,,Germany
+9,Food Provider,Hungry,www.hungry.com,Food,TRUE,10/2/2018,100,Berlin,Hartmangrh,,Germany
+10,Vegetables Provider,Angry Vegetables,www.angryvegi.com,Agriculture,TRUE,7/2/2018,200,Berlin,Hartmangrh,,Germany
+11,Trainers,Expert Trainers,www.trainers.com,Education,TRUE,7/2/2018,200,Berlin,Hartmangrh,,Germany
+12,Contractors 1,Teams,www.temas.com,Services,TRUE,7/2/2018,200,Berlin,Hartmangrh,,Germany
+13,Trainers 2,Tehnical Trainers,www.tehnicaltrainers.com,Education,TRUE,7/2/2018,200,Berlin,Hartmangrh,,Germany
+14,Trainers 3,Teoretic Trainers,www.trainers.com,Education,TRUE,7/2/2018,200,Berlin,Hartmangrh,,Germany
+15,Courses,Pragmatic,www.pragmatic.com,Education,TRUE,7/2/2018,200,Berlin,Hartmangrh,,Germany
+16,Contractors 3,Zodiac,www.zodiac.com,Services,TRUE,7/7/2016,500,Berlin,Hartmangrh,,Germany
+17,Security,Secure Systems,www.securesystems.com,Services,TRUE,21/03/2015,200,Berlin,Hartmangrh,,Germany
+18,Consultants,Schultz Ltd,www.schultz.com,Services,TRUE,7/2/2017,200,Berlin,Hartmangrh,,Germany
+19,Consultants 2,Purdy LLC,www.purdy.com,Services,TRUE,7/2/2017,200,Berlin,Hartmangrh,,Germany
+20,Devices Rental,Heavy LLC,www.heavy.com,Rentals,TRUE,7/4/2010,400,Berlin,Hartmangrh,,Germany

@@ -1,0 +1,11 @@
+﻿Id,Internal Name,External Name,Website,Industry,Recurrent Supplier,Supplier Since,Number of Employees,City,Street,Zip,State
+21,Accounting,Canoe LLC,www.canoe.com,Accounting,TRUE,7/2/2000,200,Berlin,Hartmangrh,,Germany
+22,Accounting 2,Gemini LLC,www.gemini.com,Accounting,TRUE,7/2/2000,200,Berlin,Hartmangrh,,Germany
+23,Maintanance,sprinty LLC,www.sprinty.com,IT,TRUE,7/2/2009,200,Berlin,Hartmangrh,,Germany
+24,Support,ACC LLC,www.canoe.com,IT,TRUE,7/12/2009,200,Berlin,Hartmangrh,,Germany
+25,Finance,Fast & Finnace LLC,www.fastandfinance.com,Finance,TRUE,6/6/2010,20,Berlin,Hartmangrh,,Germany
+26,Marketing,Big Market LLC,www.bigmarket.com,Marketing,TRUE,7/9/2006,200,Berlin,Hartmangrh,,Germany
+27,Management,Safe&Sound LLC,www.safeandsound.com,Management,TRUE,7/9/2006,31,Berlin,Hartmangrh,,Germany
+28,Statistics,Big Market LLC,www.bigmarket.com,Statistics,TRUE,7/9/2006,200,Berlin,Hartmangrh,,Germany
+29,Statistics,Small Market LLC,www.bigmarket.com,Statistics,TRUE,7/9/2006,200,Berlin,Hartmangrh,,Germany
+30,Cleaning,Godzilla LLC,www.godzilla.com,Services,TRUE,7/9/2006,200,Berlin,Hartmangrh,,Germany
